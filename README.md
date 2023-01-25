@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taimoor Khan @Taimoorhan
-- 👀 I’m interested in desiging and developing websites in WordPRess
-- 🌱 I’m currently learning backend of WordPress
+- 👀 I’m experienced with front-end technology HTML/CSS/JS/Bootstap. Not only this also have knowledge of CMS WordPress, webflow, Shopify, and Pagecloud. 
+- 🌱 I’m currently working as Front-end Designer and learning Theme Development for WordPress.
 
 
 <!---
